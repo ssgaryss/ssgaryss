@@ -20,7 +20,7 @@ I am `Huidi Qiu`, an undergraduate and master's student from **Sichuan Universit
 ---
 
 <a href="https://github.com/ssgaryss">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssgaryss&layout=compact" />
+  <img src="https://github-readme-stats-ssgaryss.vercel.app/api/top-langs/?username=ssgaryss&layout=compact" />
 </a>
 
 
