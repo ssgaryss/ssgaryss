@@ -1,7 +1,7 @@
 
 ### Hi there 👋 This is Gary's Github
 
-I am `Huidi Qiu`,  a Computer Science undergraduate student major at **Southern University and Science and Technology**. Problem solving is my lifelong delight. My Research interests span **Computer Graphics**, **Game Engine**, **Database** and so forth. 
+I am `Huidi Qiu`, an undergraduate and master's student from **Sichuan University**, majoring in **Computer Science and Technology**. I'm deeply passionate about areas span **Computer Graphics**, **Game Engines**, and **AR/VR**. Rebuilding everything I learn from scratch is what brings me the most joy.
 
 - 😄 Likes: MacDonald and C++
 - 🔭 I’m currently working on ...
