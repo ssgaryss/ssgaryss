@@ -1,6 +1,8 @@
 
 ### Hi there 👋 This is Gary's Github
 
+--
+
 I am `Huidi Qiu`, an undergraduate and master's student from **Sichuan University**, majoring in **Computer Science and Technology**. I'm deeply passionate about areas span **Computer Graphics**, **Game Engines**, and **AR/VR**. Rebuilding everything I learn from scratch is what brings me the most joy.
 
 - 😄 Likes: MacDonald and C++
@@ -12,6 +14,8 @@ I am `Huidi Qiu`, an undergraduate and master's student from **Sichuan Universit
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+--
 
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/ssgaryss">
