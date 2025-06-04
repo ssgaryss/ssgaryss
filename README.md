@@ -5,11 +5,11 @@
 
 I am `Huidi Qiu`, an undergraduate and master's student from **Sichuan University**, majoring in **Computer Science and Technology**. I'm deeply passionate about areas span **Computer Graphics**, **Game Engines**, and **AR/VR**. Rebuilding everything I learn from scratch is what brings me the most joy.
 
-- 😄 Likes: MacDonald and C++
-- 💬 Ask me about **C++**, **Python** and **Computer Graphics**
-- 🔭 I’m currently working on **Game Client Development**
-- 🌱 I’m currently learning **UE5**
-- 🧠 Research interest: **Gaussian Splatting**
+- 😄 Likes: McDonald's and C++
+- 💬 Ask me about **C++**, **Python**, and **Computer Graphics**
+- 🔭 I’m currently working on **game client development**
+- 🌱 I’m currently learning **Unreal Engine 5 (UE5)**
+- 🧠 My research focuses on **Gaussian Splatting for real-time relighting**
 
 ---
 
