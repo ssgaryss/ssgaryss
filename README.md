@@ -13,14 +13,13 @@ I am `Huidi Qiu`, an undergraduate and master's student from **Sichuan Universit
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/ssgaryss">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssgaryss&show_icons=true&hide_border=true" />
-</a>
-
----
-
-<a href="https://github.com/ssgaryss">
-  <img src="https://github-readme-stats-ssgaryss.vercel.app/api/top-langs/?username=ssgaryss&layout=compact" />
-</a>
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/ssgaryss">
+    <img src="https://github-readme-stats.vercel.app/api?username=ssgaryss&show_icons=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/ssgaryss">
+    <img src="https://github-readme-stats-9xad.vercel.app/api/top-langs/?username=ssgaryss&layout=compact" />
+  </a>
+</div>
 
 
