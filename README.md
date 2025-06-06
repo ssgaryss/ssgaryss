@@ -15,10 +15,10 @@ I am `Huidi Qiu`, an undergraduate and master's student from **Sichuan Universit
 
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/ssgaryss">
-    <img src="https://github-readme-stats-9xad.vercel.app/api?username=ssgaryss&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats-9xad.vercel.app/api/top-langs/?username=ssgaryss&layout=compact" />
   </a>
   <a href="https://github.com/ssgaryss">
-    <img src="https://github-readme-stats-9xad.vercel.app/api/top-langs/?username=ssgaryss&layout=compact" />
+    <img src="https://github-readme-stats-9xad.vercel.app/api?username=ssgaryss&show_icons=true&hide_border=true" />
   </a>
 </div>
 
